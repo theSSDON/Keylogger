@@ -9,3 +9,5 @@ The log file can be sent through an SMTP server back to the attacker.
 
 In a stiumlated example, the victim open a socail networking site, and the username and password of the user are recorded in the log file.
 Similarly, another sample text is recorded in the log file.
+
+![alt text](https://github.com/theSSDON/Keylogger/blob/Images/Instagram Login.png?raw=true)
